@@ -1,0 +1,21 @@
+.item-detail{
+  display: flex;
+  justify-content: center;
+  padding: 5% 10%;
+}
+
+.item-detail .imagen{
+  width: 25%;
+  box-shadow: 2px 4px 23px 5px rgba(0, 0, 0, 0.18);
+    -webkit-box-shadow: 2px 4px 23px 5px rgba(0, 0, 0, 0.18);
+    -moz-box-shadow: 2px 4px 23px 5px rgba(0, 0, 0, 0.18);
+}
+
+.item-detail .texto{
+  padding: 10px 50px;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 2px 4px 23px 5px rgba(0, 0, 0, 0.18);
+    -webkit-box-shadow: 2px 4px 23px 5px rgba(0, 0, 0, 0.18);
+    -moz-box-shadow: 2px 4px 23px 5px rgba(0, 0, 0, 0.18);
+}
